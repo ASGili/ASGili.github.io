@@ -32,8 +32,11 @@ footer{
     background-color: bisque;
     border-top: black dashed 3px;
     padding-left: 0.5em;
-    padding-top: 1em;
     font-size:large;
+}
+
+.footer-ephemera{
+    font-size: x-small;
 }
 
 .subtitle{
