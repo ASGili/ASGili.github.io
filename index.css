@@ -28,6 +28,9 @@ section{
 
 footer{
     height: 5em;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
     text-align:left;
     background-color: bisque;
     border-top: black dashed 3px;
@@ -38,6 +41,7 @@ footer{
 .footer-ephemera{
     font-size: x-small;
 }
+
 
 .subtitle{
     font-style: italic;
